@@ -1,4 +1,4 @@
-- 👋 Hi, I’m naveed aasam
+- 👋 Hi, I’m Naveed Aasam
 - 👀 I’m interested in Python and in Data Science
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Python data project
